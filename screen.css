@@ -1,0 +1,210 @@
+.jumbotron.indexbackground {
+    background-image: url(../images/knottystain.jpg);
+}
+
+#main-content {
+    max-width: 1500px;
+    background-color: white;
+    position: relative;
+    margin: auto;
+    z-index: 200;
+}
+
+header.container-fluid {
+    background-color: #333;
+    padding: 0;
+    overflow: hidden;
+}
+
+@media (min-width: 768px) {
+    header.container-fluid {
+        background-color: #333;
+        padding: 0 0 33.29% 0;
+        height: 0;
+    }
+}
+
+.header-image {
+    width: 100%;
+    max-width: 1500px;
+}
+
+@media (min-width: 768px) {
+    .header-image {
+        position: absolute;
+    }
+}
+
+.header-txt {
+    text-align: center;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    background-color: transparent;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+#nav li{
+    display: inline-block;
+}
+
+#nav li a {
+    display: inline-block;
+    color: #FFFFBE;
+    font-size: 48px;
+    padding: 28px 32px;
+    text-decoration: none;
+}
+
+p.siteunderconstruction {
+    color: black;
+    font-size: 72px;
+}
+@media (min-width: 768px) {
+    .header-txt {
+        position: relative;
+    }
+}
+
+.blinds-types-img img {
+    padding: 5px;
+    float: left;
+    width: 33.33%;
+}
+
+@media (min-width: 750px) {
+    .blinds-types-img img {
+        width: 16.66%;
+    }
+}
+
+body {}
+
+.extra-padding {
+    padding: 5px;
+}
+
+.blue {
+    color: midnightblue;
+}
+
+.white-text {
+    color: white;
+}
+
+.midnight-blue-text {
+    color: #07253D;
+}
+
+s .even-more-padding {
+    padding-bottom: 9px;
+}
+
+.huge-ammounts-of-padding {
+    padding: 20px;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+}
+
+.text-right {
+    display: block;
+    text-align: right;
+}
+
+.clearfix {
+    display: block;
+    clear: right;
+    float: right;
+}
+
+h4 {
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 54px;
+    font-weight: 700;
+    color: white;
+}
+
+body {
+    color: midnightblue;
+}
+
+h5 {
+    font-weight: 700;
+}
+
+.small {
+    font-size 10px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align: middle;
+    text-align: center;
+}
+
+.text-center small {
+    font-weight: 700;
+    color: black;
+    text-align: center;
+    
+}
+
+p.text-center {
+    
+    text-decoration: none;
+}
+.kellyspages {
+    color:#FF0000;
+    font-size: 24px;
+}
+
+h2, h5, h4, h3 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.img2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.img3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.img4 {
+    padding-right: 0px;
+
+}
+
+.img5 {
+    padding-left: 0px;
+}
+
+
+img {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+}
+h2 {
+    font-size: 48px;
+    color: darkred;
+}
